@@ -1,0 +1,10 @@
+@media all and (max-width: 550px) {
+    li{ background-color: black;
+        padding: 10px;
+        list-style-type: none;
+        text-align: center;
+        padding-right: 80px;
+        width:40%;
+    }
+}
+
